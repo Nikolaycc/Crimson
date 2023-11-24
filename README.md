@@ -1,22 +1,20 @@
 # crimson
 
-TODO: Write a description here
+For Fun :)
 
 ## Installation
 
 TODO: Write installation instructions here
 
-## Usage
-
-TODO: Write usage instructions here
-
 ## Development
 
-TODO: Write development instructions here
+```bash
+$ shards run
+```
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/crimson/fork>)
+1. Fork it (<https://github.com/nikolaycc/crimson/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -24,5 +22,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Nikolaycc](https://github.com/your-github-user) - creator and maintainer
-# Crimson
+- [Nikolaycc](https://github.com/nikolaycc) - creator and maintainer
