@@ -1,0 +1,19 @@
+name: crimson
+version: 0.1.0
+
+authors:
+  - Nikolaycc <gogitadzenikos@gmail.com>
+
+dependencies:
+  html_builder:
+    github: crystal-lang/html_builder
+  radix:
+    github: luislavena/radix
+
+targets:
+  crimson:
+    main: src/crimson.cr
+
+crystal: '>= 1.10.1'
+
+license: MIT
